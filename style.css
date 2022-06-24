@@ -1,0 +1,32 @@
+.input_form{
+}
+
+.name{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.desc{
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.input{
+    min-width: 50%;
+    height: auto;
+}
+
+.desc_input{
+    height: 100px;
+}
+
+label{
+    display: inline-block;
+    min-width: 100px;
+}
+

@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Kiến thức cơ bản cho người mới bắt đầu",
+      "description": "Kiến thức cơ bản cho người mới, không phân biệt FE hay BE, hoặc Devops"
+    },
+    {
+      "name": "Xây dựng web với NodeJS và ExpressJS ",
+      "description": "Xây dựng web thực tế với NodeJS and ExpressJS, dành cho các bạn muốn theo chuyên sâu với BE.",
+      "id": 2
+    },
+    {
+      "name": "Xây dựng web responsive",
+      "description": "Xây dựng resonsive website, giúp các bạn làm FE có thể thiết kế website trên các nền tảng khác nhau như điện thoại, máy tính bảng, laptop. Đây là kĩ năng rất quan trọng cho các bạn muốn trở thành một lập trình viên FE",
+      "id": 3
+    }
+  ]
+}
